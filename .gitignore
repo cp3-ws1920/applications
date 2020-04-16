@@ -1,0 +1,9 @@
+# No build directory
+build
+# No output files
+*.edge
+*.ele
+*.neigh
+*.node
+# VS Code files
+.vscode
