@@ -1,0 +1,3 @@
+[submodule "include/triangulator"]
+	path = include/triangulator
+	url = git@github.com:cp3-ws1920/triangulator.git
