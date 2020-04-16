@@ -39,6 +39,8 @@ triangulate_poly <input.poly> <min_angle>
 
 `min_angle` specifies the minimum angles triangles in the triangulation should have.
 
+The resulting triangulation can be plottet using the `plot_triangulation.py` Python script.
+
 ## Credits
 
 This repository as well as its submodules use [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page), a free C++ template library for linear algebra.
