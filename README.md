@@ -44,3 +44,5 @@ The resulting triangulation can be plottet using the `plot_triangulation.py` Pyt
 ## Credits
 
 This repository as well as its submodules use [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page), a free C++ template library for linear algebra.
+
+`.poly` files are taken from [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) and https://github.com/mapbox/triangle.net-uwp/blob/master/Triangle.NET/Data/superior.poly
